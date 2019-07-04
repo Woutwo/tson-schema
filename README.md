@@ -1,6 +1,6 @@
-# tson-schema
+# TSON-Schema
 
-This project aims to bring you an easy way to create json-schemas and TypeScript types using a single API. This API is kept as close as possible to json-schema so you don't have to worry about learning yet another API. Support for new json-schema versions and new TypeScript versions is added on a best effort basis.
+This project aims to bring you an easy way to create JSON-schemas and TypeScript types using a single API. This API is kept as close as possible to JSON-schema so you don't have to worry about learning yet another API. Support for new JSON-schema versions and new TypeScript versions is added on a best effort basis.
 
 __This is a work in progress! Known missing json-schema features include:__
 
